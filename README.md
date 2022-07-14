@@ -1,7 +1,11 @@
 ### Hi there 👋
+<a href="https://wakatime.com/@ponurakk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ponurakk&langs_count=10&theme=dark&layout=compact&custom_title=Last%207%20days...&border_radius=10&range=last_7_days" />
+</a>
+<a href="https://github.com/ponurakk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ponurakk&theme=dark&show_icons=true&border_radius=10" />
+</a>
 
-<img src="https://wakatime.com/share/@ponurakk/c448b4a1-89d9-4390-8f0c-88f33c6d849a.svg" style="width:49%"></img>
-<img src="https://wakatime.com/share/@ponurakk/39580385-3b34-4ab6-8f08-4fc37d8e1d1f.svg" style="width:49%"></img>
 <!--
 **ponurakk/ponurakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
