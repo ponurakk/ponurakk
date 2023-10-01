@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://wakatime.com/@ponurakk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ponurakk&langs_count=10&theme=dark&layout=compact&custom_title=Last%207%20days...&border_radius=10&range=last_7_days" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ponurakk&langs_count=10&theme=dark&layout=compact&custom_title=Last%207%20days...&border_radius=10&range=last_7_days" />
 </a>
 <a href="https://github.com/ponurakk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ponurakk&theme=dark&show_icons=true&border_radius=10" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=ponurakk&theme=dark&show_icons=true&border_radius=10" />
 </a>
 
 <!--
