@@ -28,6 +28,7 @@
 
 - 🔭 I’m currently working on rewriting `Little Manager`
 - 🌱 I’m currently learning `Rust` and `Typescript`
+- 💻 Backend at [Exotia.net](https://exotia.net) 
 
 <h3>Some stats:</h3>
 
